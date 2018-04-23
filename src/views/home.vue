@@ -78,6 +78,7 @@
         padding: 0 20px;
         cursor: pointer;
         font-size: 13px;
+        list-style:none;
     }
 
     .layout-header-nav li:hover {
