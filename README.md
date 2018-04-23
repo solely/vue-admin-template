@@ -22,3 +22,9 @@ npm run buildDebug //测试环境打包使用，这个无热更新功能
 npm run build
 ```
 
+### 默认账号密码
+```bush
+账号: root
+密码: 123456
+```
+
