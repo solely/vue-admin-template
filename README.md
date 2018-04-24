@@ -27,4 +27,7 @@ npm run build
 账号: root
 密码: 123456
 ```
-
+### nginx配置
+```bush
+try_files $uri $uri/ /index_prod.html;
+```
